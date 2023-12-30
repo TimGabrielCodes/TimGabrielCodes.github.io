@@ -1,0 +1,12 @@
+
+@font-face {
+    font-family: 'YourCustomFont';
+    src: url('fonts/Xshow.woff2') format('woff2'), /* Format for modern browsers */
+         url('fonts/Xshow.woff') format('woff'); /* Fallback for older browsers */
+    /* Add other font properties if needed */
+}
+
+/* Usage of your custom font */
+body {
+    font-family: 'xshow', sans-serif; /* Apply your custom font to the body or specific elements */
+}
